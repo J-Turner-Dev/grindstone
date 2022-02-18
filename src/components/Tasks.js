@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Checkbox } from "./Checkbox";
 import { useTasks } from "../hooks";
 import { collatedTasks } from "../constants";
@@ -25,7 +26,7 @@ export const Tasks = () => {
   }
 
   useEffect(() => {
-    document.title = `${projectName}: Todoist`;
+    document.title = `${projectName}: GrindStone`;
   });
 
   return (
