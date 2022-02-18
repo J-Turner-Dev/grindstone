@@ -26,7 +26,7 @@ export const Tasks = () => {
   }
 
   useEffect(() => {
-    document.title = `${projectName}: GrindStone`;
+    document.title = `GrindStone: ${projectName}`;
   });
 
   return (

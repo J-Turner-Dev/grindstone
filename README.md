@@ -4,4 +4,10 @@ This application is a case study for myself to understand how to create a web ap
 
 ![Preview](GrindStone-preview.PNG?raw=true)
 
-Work in Progress
+Progress....
+
+Context was added to the Project. Context allows React to pass props (arguments) through multiple React components without actually adding them as props in each component. If a component needs a prop from the top of the component tree it will not have to be added to every component to pass it through the tree.
+
+Also some styling was done to make it more viewable to work on
+
+![Preview](GrindStone-preview2.PNG?raw=true)
