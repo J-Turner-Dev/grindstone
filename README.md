@@ -11,3 +11,9 @@ Context was added to the Project. Context allows React to pass props (arguments)
 Also some styling was done to make it more viewable to work on
 
 ![Preview](GrindStone-preview2.PNG?raw=true)
+
+More Progress....
+
+At this point I have added the project components to the sidebar. Also the ability to see the tasks in the 3 collated projects tabs and the tasks for the projects in the main content area. The ability to add and remove projects by creating or deleting projects to and from the database was also added. So far it is looking really solid!
+
+![Preview](GrindStone-preview3.PNG?raw=true)
