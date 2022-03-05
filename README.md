@@ -17,3 +17,7 @@ More Progress....
 At this point I have added the project components to the sidebar. Also the ability to see the tasks in the 3 collated projects tabs and the tasks for the projects in the main content area. The ability to add and remove projects by creating or deleting projects to and from the database was also added. So far it is looking really solid!
 
 ![Preview](GrindStone-preview3.PNG?raw=true)
+
+Current Version.... This version is fairly built out. It gives the user the ability to create and delete a Project. Add tasks to projects or just to the inbox. The plus sign on top of the app is a quick add task option to quickly add tasks as they come up. Tasks can be archived and removed from the content area my clicking on the checkbox next to them. The moon button is for dark mode which currently is not stylized completely. The next steps for this project will be to add accessibility features to the React components, complete the dark mode and other styling errors, adding user login and authentication, and testing to the React components. So far I have learned quite a bit about React, React Hooks, Context, and Firebase with this project.
+
+![Preview](GrindStone-preview4.PNG?raw=true)
